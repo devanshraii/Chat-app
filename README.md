@@ -24,11 +24,14 @@ _\*on first run server may take upto 50s to start_
 - React
 - Tailwind CSS
 - Daisy UI
+- Zustang
 - Node js
 - Express
 - Socket.IO
 - Mongoose
 - bcryptjs
 - jsonwebtoken
+
+Feel free to contribute and add features
 
   
